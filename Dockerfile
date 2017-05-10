@@ -16,6 +16,7 @@ RUN apk add \
 	php7-xdebug \
 	php7-mcrypt \
         php7-simplexml \
+        php7-mbstring \
 	php7-gmp \
 	php7-dom \
 	php7-pdo \
